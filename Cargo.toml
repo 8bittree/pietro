@@ -1,0 +1,6 @@
+[package]
+name = "pietro"
+version = "0.1.0"
+authors = ["Jon Olin <github.jao@jon.tomolin.net>"]
+
+[dependencies]
